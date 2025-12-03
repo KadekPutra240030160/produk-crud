@@ -24,16 +24,16 @@ Aplikasi back-end sederhana untuk mengelola entitas **Produk** menggunakan PHP d
 ## 📂 Struktur Folder
 produk-crud/<br>
 ├── public/<br>
-│ ├── index.php<br>
-│ ├── create.php<br>
-│ ├── edit.php<br>
-│ ├── delete.php<br>
-│ └── uploads/<br>
+│   ├── index.php<br>
+│   ├── create.php<br>
+│   ├── edit.php<br>
+│   ├── delete.php<br>
+│   └── uploads/<br>
 ├── src/<br>
-│ ├── config/<br>
-│ │ └── Database.php<br>
-│ └── models/<br>
-│   └── Produk.php<br>
+│   ├── config/<br>
+│   │   └── Database.php<br>
+│   └── models/<br>
+│       └── Produk.php<br>
 ├── schema.sql<br>
 └── README.md
 
