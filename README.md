@@ -22,20 +22,20 @@ Aplikasi back-end sederhana untuk mengelola entitas **Produk** menggunakan PHP d
 - **File upload**: Disimpan di `public/uploads/`, path disimpan di database
 
 ## 📂 Struktur Folder
-produk-crud/
-├── public/
-│ ├── index.php
-│ ├── create.php
-│ ├── edit.php
-│ ├── delete.php
-│ └── uploads/
-├── src/
-│ ├── config/
-│ │ └── Database.php
-│ └── models/
-│ └── Produk.php
-├── schema.sql
-└── README.md
+roduk-crud/<br>
+&nbsp;&nbsp;public/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;index.php<br>
+&nbsp;&nbsp;&nbsp;&nbsp;create.php<br>
+&nbsp;&nbsp;&nbsp;&nbsp;edit.php<br>
+&nbsp;&nbsp;&nbsp;&nbsp;delete.php<br>
+&nbsp;&nbsp;&nbsp;&nbsp;uploads/<br>
+&nbsp;&nbsp;src/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;config/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Database.php<br>
+&nbsp;&nbsp;&nbsp;&nbsp;models/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Produk.php<br>
+&nbsp;&nbsp;schema.sql<br>
+&nbsp;&nbsp;README.md
 
 ## ▶️ Cara Menjalankan
 
