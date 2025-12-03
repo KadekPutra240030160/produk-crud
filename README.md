@@ -23,19 +23,19 @@ Aplikasi back-end sederhana untuk mengelola entitas **Produk** menggunakan PHP d
 
 ## 📂 Struktur Folder
 produk-crud/
-public/
-index.php
-create.php
-edit.php
-delete.php
-uploads/
-src/
-config/
-Database.php
-models/
-Produk.php
-schema.sql
-README.md
+  public/
+    index.php
+    create.php
+    edit.php
+    delete.php
+    uploads/
+  src/
+    config/
+      Database.php
+    models/
+      Produk.php
+  schema.sql
+  README.md
 
 
 ## ▶️ Cara Menjalankan
