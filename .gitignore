@@ -1,0 +1,5 @@
+# Abaikan semua file di folder uploads (hasil upload user)
+public/uploads/*
+
+# Tapi tetap lacak folder uploads itu sendiri (agar strukturnya tetap ada di Git)
+!public/uploads/.gitkeep
