@@ -36,6 +36,8 @@ produk-crud/<br>
 │ └── Produk.php<br>
 ├── schema.sql<br>
 └── README.md
+└── .gitignore
+
 
 ## ▶️ Cara Menjalankan
 
