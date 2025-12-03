@@ -29,11 +29,12 @@ produk-crud/<br>
 │ ├── edit.php<br>
 │ ├── delete.php<br>
 │ └── uploads/<br>
+│   └── .gitkeep<br>
 ├── src/<br>
 │ ├── config/<br>
 │ │ └── Database.php<br>
 │ └── models/<br>
-│ └── Produk.php<br>
+│   └── Produk.php<br>
 ├── schema.sql<br>
 └── README.md
 
